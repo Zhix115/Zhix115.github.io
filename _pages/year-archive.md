@@ -1,9 +1,7 @@
 ---
-permalink: /_pages/year-archive/
+permalink: /posts/
 title: "Juego Arcade tipo Pac-Man"
 unity_dir: MediashowPacman
-layout: posts
-author_profile: true
 ---
 
 Ayuda a Boo recogiendo todas las galletas sin que te atrape el sin cara. 
