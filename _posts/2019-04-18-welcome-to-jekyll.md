@@ -2,7 +2,7 @@
 title: "Juego para el Mediashow"
 date: 2020-05-12T12:34:30-04:00
 categories:
-  - Unity Web
+ 
 tags:
 
 ---

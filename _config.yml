@@ -32,6 +32,12 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 include:
   - _pages
 
@@ -84,6 +90,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+        # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
 
 category_archive:
   type: liquid
