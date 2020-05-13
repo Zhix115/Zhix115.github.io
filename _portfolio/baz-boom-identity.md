@@ -13,20 +13,20 @@ sidebar:
     text: "Unity 2019"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpeg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpeg
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpeg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpeg
     alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpeg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpeg
     alt: "placeholder image 3"
 	  - url: /assets/images/unsplash-gallery-image-4.jpeg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+   image_path: assets/images/unsplash-gallery-image-4-th.jpeg
+    alt: "placeholder image 4"
 	  - url: /assets/images/unsplash-gallery-image-5.jpeg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+    image_path: assets/images/unsplash-gallery-image-5-th.jpeg
+    alt: "placeholder image 5"
 ---
 
 Consta de 3 niveles en los cuales se manejan mecanicas similares pero con diferente finalidad.
