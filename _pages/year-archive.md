@@ -1,5 +1,5 @@
 ---
-permalink: /year-archive/
+permalink: /_pages/year-archive/
 title: "Juego Arcade tipo Pac-Man"
 unity_dir: MediashowPacman
 layout: posts
