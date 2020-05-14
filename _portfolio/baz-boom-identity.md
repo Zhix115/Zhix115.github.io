@@ -3,23 +3,23 @@ title: "Ñero Simulator"
 excerpt: "Fecha de salida: Marzo 2020."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpeg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpeg
+  teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Plataforma: "
-    image: http://placehold.it/350x250
+    image: /assets/images/logo.png
     image_alt: "logo"
     text: "Android"
   - title: "Desarrollado en:"
     text: "Unity 2019"
 gallery:
   - url: /assets/images/unsplash-gallery-image-2.jpeg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpeg
+    image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "nivel 1"
   - url: /assets/images/unsplash-gallery-image-3.jpeg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpeg
+    image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "nivel 2"
   - url: /assets/images/unsplash-gallery-image-4.jpeg
-    image_path: assets/images/unsplash-gallery-image-4-th.jpeg
+    image_path: assets/images/unsplash-gallery-image-4-th.jpg
     alt: "nivel 3"
 
 ---
