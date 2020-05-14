@@ -1,9 +1,9 @@
 main:
   - title: "Mediashow"
     url: /posts/
-  - title: "Modelado y animación"
+  - title: "Juegos Android"
     url: /categories/
-  - title: "Juegos Moviles"
+  - title: "Modelos y animaciones"
     url: /tags/
   - title: "Quien soy"
     url: /about/

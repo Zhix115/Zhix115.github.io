@@ -1,7 +1,7 @@
 ---
 permalink: /categories/
 layout: collection
-title: "Modelado y animación"
+title: "Juegos Android"
 collection: portfolio
 entries_layout: grid
 classes: wide
